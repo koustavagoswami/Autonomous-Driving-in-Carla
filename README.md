@@ -1,0 +1,2 @@
+# Autonomous-Driving-in-Carla
+The code has been implemented in Carla Simulator with the help of Double DQN to train an agent how to drive autonomously using different architecture. To train the agent in command line pass the parameter "Train" and after training to test how the agent is behaving pass "Run" as parameter. The code has been uploaded as zip file as it contains multiple folders which requires to run the code. The steps to run the code is -  Install Carla in the machine Fork the zip file in local machine Unzip the file. Train and Run the agent in Carla.
